@@ -1,0 +1,366 @@
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7):   [!] Invalid input. Please enter a whole number.
+Select an option (1-7):   [!] Value must not be more than 7.
+Select an option (1-7): 
+==================================================
+                 RESTAURANT MENU                  
+==================================================
+
+--- Food ---
+  [F1] Nasi Lemak Ayam              RM  12.50
+  [F2] Mee Goreng Mamak             RM   9.00
+  [F3] Chicken Chop                 RM  18.90
+  [F4] Roti Canai (2 pcs)           RM   4.00
+  [F5] Nasi Goreng Kampung          RM  10.50
+
+--- Drinks ---
+  [D1] Teh Tarik                    RM   3.50
+  [D2] Milo Ais                     RM   4.50
+  [D3] Fresh Orange Juice           RM   7.00
+  [D4] Mineral Water                RM   2.00
+
+--- Dessert ---
+  [S1] Cendol                       RM   6.00
+  [S2] ABC (Air Batu Campur)        RM   6.50
+  [S3] Chocolate Lava Cake          RM  11.00
+==================================================
+Enter item code (e.g. F1): Enter quantity:   [OK] Added 2 x Nasi Lemak Ayam.
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+==================================================
+                 RESTAURANT MENU                  
+==================================================
+
+--- Food ---
+  [F1] Nasi Lemak Ayam              RM  12.50
+  [F2] Mee Goreng Mamak             RM   9.00
+  [F3] Chicken Chop                 RM  18.90
+  [F4] Roti Canai (2 pcs)           RM   4.00
+  [F5] Nasi Goreng Kampung          RM  10.50
+
+--- Drinks ---
+  [D1] Teh Tarik                    RM   3.50
+  [D2] Milo Ais                     RM   4.50
+  [D3] Fresh Orange Juice           RM   7.00
+  [D4] Mineral Water                RM   2.00
+
+--- Dessert ---
+  [S1] Cendol                       RM   6.00
+  [S2] ABC (Air Batu Campur)        RM   6.50
+  [S3] Chocolate Lava Cake          RM  11.00
+==================================================
+Enter item code (e.g. F1):   [!] 'x9' is not on the menu.
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+==================================================
+                 RESTAURANT MENU                  
+==================================================
+
+--- Food ---
+  [F1] Nasi Lemak Ayam              RM  12.50
+  [F2] Mee Goreng Mamak             RM   9.00
+  [F3] Chicken Chop                 RM  18.90
+  [F4] Roti Canai (2 pcs)           RM   4.00
+  [F5] Nasi Goreng Kampung          RM  10.50
+
+--- Drinks ---
+  [D1] Teh Tarik                    RM   3.50
+  [D2] Milo Ais                     RM   4.50
+  [D3] Fresh Orange Juice           RM   7.00
+  [D4] Mineral Water                RM   2.00
+
+--- Dessert ---
+  [S1] Cendol                       RM   6.00
+  [S2] ABC (Air Batu Campur)        RM   6.50
+  [S3] Chocolate Lava Cake          RM  11.00
+==================================================
+Enter item code (e.g. F1): Enter quantity:   [!] Invalid input. Please enter a whole number.
+Enter quantity:   [OK] Added 3 x Teh Tarik.
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+==================================================
+                 RESTAURANT MENU                  
+==================================================
+
+--- Food ---
+  [F1] Nasi Lemak Ayam              RM  12.50
+  [F2] Mee Goreng Mamak             RM   9.00
+  [F3] Chicken Chop                 RM  18.90
+  [F4] Roti Canai (2 pcs)           RM   4.00
+  [F5] Nasi Goreng Kampung          RM  10.50
+
+--- Drinks ---
+  [D1] Teh Tarik                    RM   3.50
+  [D2] Milo Ais                     RM   4.50
+  [D3] Fresh Orange Juice           RM   7.00
+  [D4] Mineral Water                RM   2.00
+
+--- Dessert ---
+  [S1] Cendol                       RM   6.00
+  [S2] ABC (Air Batu Campur)        RM   6.50
+  [S3] Chocolate Lava Cake          RM  11.00
+==================================================
+Enter item code (e.g. F1): Enter quantity:   [OK] Added 4 x Chicken Chop.
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+--------------------------------------------------
+                  CURRENT ORDER                   
+--------------------------------------------------
+
+  Code  Item                        Qty    Price     Total
+  --------------------------------------------------------
+  F1    Nasi Lemak Ayam               2    12.50     25.00
+  D1    Teh Tarik                     3     3.50     10.50
+  F3    Chicken Chop                  4    18.90     75.60
+  --------------------------------------------------------
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+  Code  Item                        Qty    Price     Total
+  --------------------------------------------------------
+  F1    Nasi Lemak Ayam               2    12.50     25.00
+  D1    Teh Tarik                     3     3.50     10.50
+  F3    Chicken Chop                  4    18.90     75.60
+  --------------------------------------------------------
+Enter item code to remove: Quantity to remove:   [OK] Removed 1 x Teh Tarik. 2 left.
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+--------------------------------------------------
+                  CURRENT ORDER                   
+--------------------------------------------------
+
+  Code  Item                        Qty    Price     Total
+  --------------------------------------------------------
+  F1    Nasi Lemak Ayam               2    12.50     25.00
+  D1    Teh Tarik                     2     3.50      7.00
+  F3    Chicken Chop                  4    18.90     75.60
+  --------------------------------------------------------
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+--------------------------------------------------
+                     CHECKOUT                     
+--------------------------------------------------
+
+  Code  Item                        Qty    Price     Total
+  --------------------------------------------------------
+  F1    Nasi Lemak Ayam               2    12.50     25.00
+  D1    Teh Tarik                     2     3.50      7.00
+  F3    Chicken Chop                  4    18.90     75.60
+  --------------------------------------------------------
+Customer name:   Order type: 1 = Dine-in   2 = Take-away
+Choose order type: Table number (1-30):   [!] Value must not be more than 30.
+Table number (1-30): Confirm payment of RM 112.91? (y/n): 
+==================================================
+              CITY BITES RESTAURANT               
+                 Official Receipt                 
+==================================================
+Order No : 1001
+Date     : 20-11-2026 07:48:06
+Customer : Ali
+Type     : Dine-in, Table 7
+--------------------------------------------------
+Item                       Qty    Price      Total
+--------------------------------------------------
+Nasi Lemak Ayam              2    12.50      25.00
+Teh Tarik                    2     3.50       7.00
+Chicken Chop                 4    18.90      75.60
+--------------------------------------------------
+Subtotal                            RM    107.60
+Discount (10%)                      RM    -10.76
+Service Charge (10%)                RM      9.68
+Service Tax (6%)                    RM      6.39
+==================================================
+GRAND TOTAL                         RM    112.91
+==================================================
+          Thank you! Please come again.           
+
+  Receipt saved as receipt_1001.txt
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+==================================================
+                 RESTAURANT MENU                  
+==================================================
+
+--- Food ---
+  [F1] Nasi Lemak Ayam              RM  12.50
+  [F2] Mee Goreng Mamak             RM   9.00
+  [F3] Chicken Chop                 RM  18.90
+  [F4] Roti Canai (2 pcs)           RM   4.00
+  [F5] Nasi Goreng Kampung          RM  10.50
+
+--- Drinks ---
+  [D1] Teh Tarik                    RM   3.50
+  [D2] Milo Ais                     RM   4.50
+  [D3] Fresh Orange Juice           RM   7.00
+  [D4] Mineral Water                RM   2.00
+
+--- Dessert ---
+  [S1] Cendol                       RM   6.00
+  [S2] ABC (Air Batu Campur)        RM   6.50
+  [S3] Chocolate Lava Cake          RM  11.00
+==================================================
+Enter item code (e.g. F1): Enter quantity:   [OK] Added 1 x Cendol.
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+--------------------------------------------------
+                     CHECKOUT                     
+--------------------------------------------------
+
+  Code  Item                        Qty    Price     Total
+  --------------------------------------------------------
+  S1    Cendol                        1     6.00      6.00
+  --------------------------------------------------------
+Customer name:   Order type: 1 = Dine-in   2 = Take-away
+Choose order type: Confirm payment of RM 6.36? (y/n): 
+==================================================
+              CITY BITES RESTAURANT               
+                 Official Receipt                 
+==================================================
+Order No : 1002
+Date     : 20-11-2026 07:48:06
+Customer : Siti
+Type     : Take-away
+--------------------------------------------------
+Item                       Qty    Price      Total
+--------------------------------------------------
+Cendol                       1     6.00       6.00
+--------------------------------------------------
+Subtotal                            RM      6.00
+Service Tax (6%)                    RM      0.36
+==================================================
+GRAND TOTAL                         RM      6.36
+==================================================
+          Thank you! Please come again.           
+
+  Receipt saved as receipt_1002.txt
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+--------------------------------------------------
+              TODAY'S SALES SUMMARY               
+--------------------------------------------------
+  Order 1001  Ali                  RM   112.91
+  Order 1002  Siti                 RM     6.36
+  ----------------------------------------
+  Orders: 2    Total sales: RM 119.27
+
+--------------------------------------------------
+     CITY BITES RESTAURANT - ORDERING SYSTEM      
+--------------------------------------------------
+  1. View Menu
+  2. Add Item to Order
+  3. Remove Item from Order
+  4. View Current Order
+  5. Checkout & Print Receipt
+  6. View Today's Sales Summary
+  7. Exit
+Select an option (1-7): 
+  Thank you for using City Bites Ordering System. Goodbye!
